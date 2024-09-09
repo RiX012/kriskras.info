@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 header {
     background: url(../images/background.png) #145b61;
 }
@@ -8,6 +10,3 @@ header {
 #banner {
     background: #f9bf16;
 }
-
-@import "{{ site.theme }}";
-
