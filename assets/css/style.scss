@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+a {
+    color:#145b61;
+}
 header {
     background: url(../images/background.png) #145b61;
 }
