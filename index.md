@@ -9,6 +9,8 @@
 
 Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel vragen en Annemiek is al jaren arts. Laat dat nou een leuke combinatie zijn voor een luchtige educatieve podcast, speciaal voor kinderen, over het menselijk lichaam en medische onderwerpen. Elke aflevering wordt er een nieuw onderwerp besproken. We gaan Kris Kras door het hele lichaam: ga je mee?
 
+Luister op deze site, of op [Spotify](https://spotifyanchor-web.app.link/e/5aa4TgBqKMb)
+
 ## Trailer - 000
 Deze aflevering is bedoeld om even uit te leggen waar de deze podcast over gaat en hoe we tot deze podcast zijn gekomen!
 
