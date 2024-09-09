@@ -12,7 +12,7 @@ Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel 
 Luister op deze site, of op [Spotify](https://spotifyanchor-web.app.link/e/5aa4TgBqKMb)
 
 ## Trailer - 000
-Deze aflevering is bedoeld om even uit te leggen waar de deze podcast over gaat en hoe we tot deze podcast zijn gekomen!
+Deze aflevering is bedoeld om even uit te leggen waar deze podcast over gaat en hoe we tot deze podcast zijn gekomen!
 
 <audio controls>
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 000.wav' | relative_url }}" type="audio/wav">
