@@ -1,8 +1,9 @@
 <figure>
     <img src="/assets/img/door-het-lichaam-cover-art.jpg"
          alt="Kris Kras - Door het lichaam - Podcast">
-    <figcaption>Artwork by  <a href="https://michielwolters.com/">Michiel Wolters</a> </figcaption>
+    <figcaption>Artwork by  <a href="https://michielwolters.com/">M. Wolters</a> </figcaption>
 </figure>
+<br>
 
 # Kris Kras - Door het Lichaam 
 
@@ -11,11 +12,13 @@ Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel 
 ## Trailer - 000
 Deze aflevering is bedoeld om even uit te leggen waar de deze podcast over gaat en hoe we tot deze podcast zijn gekomen!
 
-***Kleine opmerking:*** _De eerste twee afleveringen moesten we nog even wennen aan de microfoon, maar daarna klinkt het stukken beter! Sorry!_
 <audio controls>
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 000.wav' | relative_url }}" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
+
+***Kleine opmerking:*** _De eerste twee afleveringen moesten we nog even wennen aan de microfoon, maar daarna klinkt het stukken beter! Sorry!_
+
 
 <!-- ## Longen - 001
 
