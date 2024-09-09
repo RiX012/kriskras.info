@@ -1,7 +1,7 @@
 <figure>
     <img src="/assets/img/door-het-lichaam-cover-art.jpg"
          alt="Kris Kras - Door het lichaam - Podcast">
-    <figcaption>Artwork by  <a href="https://michielwolters.com/">M. Wolters</a> </figcaption>
+    <figcaption>Artwork by  <a href="https://michielwolters.com/">Michiel Wolters</a> </figcaption>
 </figure>
 <br>
 
