@@ -1,4 +1,4 @@
-![Kris Kras - Door het lichaam - Podcast](img/door-het-lichaam-cover-art.jpg)
+![Kris Kras - Door het lichaam - Podcast](assets/img/door-het-lichaam-cover-art.jpg)
 
 # Kris Kras - Door het Lichaam 
 
@@ -6,7 +6,10 @@ Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel 
 
 ## Trailer - 000
 
-![Audio](episodes/kris_kras - door het lichaam - 000.wav)
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 000.wav' | relative_url }}" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 ### Test sub
 
