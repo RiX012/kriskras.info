@@ -21,13 +21,18 @@ Deze aflevering is bedoeld om even uit te leggen waar de deze podcast over gaat 
 
 ***Kleine opmerking:*** _De eerste twee afleveringen moesten we nog even wennen aan de microfoon, maar daarna klinkt het stukken beter! Sorry!_
 
-<!-- ## Longen - 001
+## Longen - 001
 
 Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **longen**! Dit is één van de favoriete organen van Kris en Annemiek. Wist je dat mensen niet één maar twee longen hebben? En ben je benieuwd hoe longen voelen? Luister mee naar de eerste aflevering.
 
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 001.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
 ***Kleine opmerking:*** _De eerste twee afleveringen moesten we nog even wennen aan de microfoon, maar daarna klinkt het stukken beter! Sorry!_
 
-## Hart - 002
+<!-- ## Hart - 002
 
 ## Hersenen - 003 -->
 
