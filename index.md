@@ -9,9 +9,25 @@
 
 Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel vragen en Annemiek is al jaren arts. Laat dat nou een leuke combinatie zijn voor een luchtige educatieve podcast, speciaal voor kinderen, over het menselijk lichaam en medische onderwerpen. Elke aflevering wordt er een nieuw onderwerp besproken. We gaan Kris Kras door het hele lichaam: ga je mee?
 
-Luister op deze site, of op **[Spotify](https://spotifyanchor-web.app.link/e/5aa4TgBqKMb)**
+Luister op deze site, of op:
+ <!-- **[Spotify](https://spotifyanchor-web.app.link/e/5aa4TgBqKMb)**
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1nDXLZ8MIttLhNc2N4Wm1G?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/kris-kras-door-het-lichaam/id1768018915"></iframe> -->
+
+<figure>
+  <a target="_blank" href="https://open.spotify.com/show/1nDXLZ8MIttLhNc2N4Wm1G?si=ab0c461f604e4a5b">
+    <img src="/assets/img/Listen on Spotify Button.png">
+  </a>  
+</figure>
+<br>
+<figure>
+  <a target="_blank" href="https://podcasts.apple.com/us/podcast/kris-kras-door-het-lichaam/id1768018915">
+    <img src="/assets/img/Listen on Apple Podcast.png">
+  </a>  
+</figure>
+
 
 ## Trailer - 000
 Deze aflevering is bedoeld om even uit te leggen waar deze podcast over gaat en hoe we tot deze podcast zijn gekomen!
