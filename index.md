@@ -37,8 +37,12 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **longen**! Dit is
 
 ***Kleine opmerking:*** _De eerste twee afleveringen moesten we nog even wennen aan de microfoon, maar daarna klinkt het stukken beter! Sorry!_
 
-<!-- ## Hart - 002
 
-## Hersenen - 003 -->
+## Hart - 002
 
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over het **hart**! Wist je dat je hart uit twee helften bestaat? En ben je benieuwd of het hart ook echt de vorm van een hartje heeft? Luister dan mee naar deze aflevering.
 
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 002.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
