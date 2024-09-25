@@ -46,3 +46,16 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over het **hart**! Wist je
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 002.mp3' | relative_url }}" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
+
+
+## Hersenen - 003
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **hersenen**! Heb je enig idee wat de hersenen allemaal doen? En doe je mee met een testje voor je eigen hersenen? Luister dan mee naar deze aflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 003.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+
+
