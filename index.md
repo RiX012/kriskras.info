@@ -58,4 +58,14 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **hersenen**! Heb 
 </audio>
 
 
+## Lever (en poep) - 004
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Lever**! Wist je dat de lever super belangrijk is? En ga je mee op reis van mond tot kont? Luister dan naar deze aflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 004.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+
 
