@@ -68,4 +68,14 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Lever**! Wist je
 </audio>
 
 
+## Nieren (en plas) - 005
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Nieren**! We bespreken in deze aflevering alweer de laatste van de vitale organen! Wil je bijvoorbeeld weten waarom je plas steeds een beetje andere kleur geel heeft? Luister dan naar deze aflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 005.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+
 
