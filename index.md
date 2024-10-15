@@ -78,4 +78,14 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Nieren**! We bes
 </audio>
 
 
+## Botten (met speciale gast) - 006
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Botten**! Wist je dat we meer dan 200 botten in ons lichaam hebben!? En wil je bijvoorbeeld weten welk bot het allersterkste is? Luister dan naar deze speciale aflevering, want we hebben deze keer _Scout_ als gast in de studio!
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 006.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+
 
