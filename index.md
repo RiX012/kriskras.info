@@ -88,4 +88,23 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Botten**! Wist j
 </audio>
 
 
+<!-- ## Verkoudheid- 007
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet jij wat het betekent als de 'R' in de maand is? En ben je benieuwd waarom virussen en Brutelaars op elkaar lijken, en witte bloedcellen en Gorgels? Luister dan mee naar deze speciale seizoensaflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 007.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+
+## Oog - 008
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over **oog**! Dit onderwerp is aangevraagd door een trouwe luisteraar. Hoe vaak denk jij dat je op één dag met je ogen knippert? En ben je benieuwd waarom je eigenlijk twee ogen hebt? Luister dan mee naar deze aflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 008.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio> -->
+
 
