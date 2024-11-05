@@ -88,7 +88,7 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Botten**! Wist j
 </audio>
 
 
-<!-- ## Verkoudheid- 007
+## Verkoudheid- 007
 
 Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet jij wat het betekent als de 'R' in de maand is? En ben je benieuwd waarom virussen en Brutelaars op elkaar lijken, en witte bloedcellen en Gorgels? Luister dan mee naar deze speciale seizoensaflevering.
 
@@ -98,7 +98,7 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet
 </audio>
 
 
-## Oog - 008
+<!-- ## Oog - 008
 
 Deze aflevering van _Kris Kras door het Lichaam_ gaat over **oog**! Dit onderwerp is aangevraagd door een trouwe luisteraar. Hoe vaak denk jij dat je op één dag met je ogen knippert? En ben je benieuwd waarom je eigenlijk twee ogen hebt? Luister dan mee naar deze aflevering.
 
