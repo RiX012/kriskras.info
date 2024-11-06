@@ -11,7 +11,7 @@ Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel 
 
 Luister op deze site hieronder, of op **[Spotify](https://spotifyanchor-web.app.link/e/5aa4TgBqKMb)** of **[Apple Podcasts](https://podcasts.apple.com/us/podcast/kris-kras-door-het-lichaam/id1768018915)**
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1nDXLZ8MIttLhNc2N4Wm1G?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/7Bez4E7sbHZ5h4ztcOlhnT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/nl/podcast/kris-kras-door-het-lichaam/id1768018915"></iframe>
 
