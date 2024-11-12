@@ -98,13 +98,13 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet
 </audio>
 
 
-<!-- ## Oog - 008
+## Oog - 008
 
 Deze aflevering van _Kris Kras door het Lichaam_ gaat over **oog**! Dit onderwerp is aangevraagd door een trouwe luisteraar. Hoe vaak denk jij dat je op één dag met je ogen knippert? En ben je benieuwd waarom je eigenlijk twee ogen hebt? Luister dan mee naar deze aflevering.
 
 <audio controls>
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 008.mp3' | relative_url }}" type="audio/mp3">
   Your browser does not support the audio element.
-</audio> -->
+</audio>
 
 
