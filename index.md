@@ -1,13 +1,13 @@
 <figure>
     <img src="/assets/img/door-het-lichaam-cover-art.png"
          alt="Kris Kras - Door het lichaam - Podcast">
-    <figcaption>Artwork by  <a href="https://michielwolters.com/">Michiel Wolters</a> </figcaption>
+    <figcaption>Artwork by <a href="https://michielwolters.com/">Michiel Wolters</a> </figcaption>
 </figure>
 <br>
 
 # Kris Kras - Door het Lichaam 
 
-Kris is een meisje van bijna 7 jaar en Annemiek is haar moeder. Kris heeft veel vragen en Annemiek is al jaren arts. Laat dat nou een leuke combinatie zijn voor een luchtige educatieve podcast, speciaal voor kinderen, over het menselijk lichaam en medische onderwerpen. Elke aflevering wordt er een nieuw onderwerp besproken. We gaan Kris Kras door het hele lichaam: ga je mee?
+Kris is een meisje van 7 jaar en Annemiek is haar moeder. Kris heeft veel vragen en Annemiek is al jaren arts. Laat dat nou een leuke combinatie zijn voor een luchtige educatieve podcast, speciaal voor kinderen, over het menselijk lichaam en medische onderwerpen. Elke aflevering wordt er een nieuw onderwerp besproken. We gaan Kris Kras door het hele lichaam: ga je mee?
 
 Luister op deze site hieronder, of op **[Spotify](https://open.spotify.com/show/1nDXLZ8MIttLhNc2N4Wm1G?si=3d22ef0d2a374525)** of **[Apple Podcasts](https://podcasts.apple.com/us/podcast/kris-kras-door-het-lichaam/id1768018915)**
 
@@ -89,7 +89,7 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Botten**! Wist j
 
 ## Verkoudheid- 007
 
-Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet jij wat het betekent als de 'R' in de maand is? En ben je benieuwd waarom virussen en Brutelaars op elkaar lijken, en witte bloedcellen en Gorgels? Luister dan mee naar deze speciale seizoensaflevering.
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over **Verkoudheid**! Weet jij wat het betekent als de 'R' in de maand is? En ben je benieuwd waarom virussen en Brutelaars op elkaar lijken, en witte bloedcellen en Gorgels? Luister dan mee naar deze speciale seizoensaflevering.
 
 <audio controls>
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 007.mp3' | relative_url }}" type="audio/mp3">
@@ -99,7 +99,7 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over **verkoudheid**! Weet
 
 ## Oog - 008
 
-Deze aflevering van _Kris Kras door het Lichaam_ gaat over het **oog**! Dit onderwerp is aangevraagd door een trouwe luisteraar. Hoe vaak denk jij dat je op één dag met je ogen knippert? En ben je benieuwd waarom je eigenlijk twee ogen hebt? Luister dan mee naar deze aflevering.
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over het **Oog**! Dit onderwerp is aangevraagd door een trouwe luisteraar. Hoe vaak denk jij dat je op één dag met je ogen knippert? En ben je benieuwd waarom je eigenlijk twee ogen hebt? Luister dan mee naar deze aflevering.
 
 <audio controls>
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 008.mp3' | relative_url }}" type="audio/mp3">
@@ -107,3 +107,11 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over het **oog**! Dit onde
 </audio>
 
 
+## Oren - 009
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Oren**! ... en die zijn echt handig voor een podcast! Wist je dat sommige mensen hun oren kunnen bewegen? En ben je benieuwd wat er in je oor zit? Luister dan (met je oren) mee naar deze aflevering.
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 009.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
