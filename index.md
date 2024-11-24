@@ -115,3 +115,12 @@ Deze aflevering van _Kris Kras door het Lichaam_ gaat over de **Oren**! ... en d
   <source src="{{ '/assets/audio/kris_kras - door het lichaam - 009.mp3' | relative_url }}" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
+
+<!-- ## Gezonde leefstijl - 009
+
+Deze aflevering van _Kris Kras door het Lichaam_ gaat over een **Gezonde leefstijl**! Weet jij hoe je gezond leeft? En ben je benieuwd hoe je een gezond feestje kunt houden? Luister dan  mee naar deze 10e aflevering!
+
+<audio controls>
+  <source src="{{ '/assets/audio/kris_kras - door het lichaam - 010.mp3' | relative_url }}" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio> -->
